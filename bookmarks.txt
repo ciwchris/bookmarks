@@ -1,0 +1,1436 @@
+[
+    {
+        "description": "",
+        "tags": "vim",
+        "title": "Effective spelling in Vim",
+        "uri": "http://blog.cjwfuller.com/2015/05/17/effective-spelling-in-vim/"
+    },
+    {
+        "description": "",
+        "tags": "clojure,kata",
+        "title": "GitHub - marshallshen/clojure-katas: Experience the joy of Clojure by solving problems.",
+        "uri": "https://github.com/marshallshen/clojure-katas"
+    },
+    {
+        "description": "",
+        "tags": "clojure,follow up",
+        "title": "Clojure Do\u2019s: Uncaught Exceptions \u2013 Digital Digressions by Stuart Sierra",
+        "uri": "http://stuartsierra.com/2015/05/27/clojure-uncaught-exceptions"
+    },
+    {
+        "description": "",
+        "tags": "follow up,podcast,testing",
+        "title": "AB Testing | Alan and Brent talk testing",
+        "uri": "http://www.angryweasel.com/ABTesting/"
+    },
+    {
+        "description": "",
+        "tags": "management",
+        "title": "The Best Way to Motivate People",
+        "uri": "http://time.com/3765522/best-way-motivate-people/"
+    },
+    {
+        "description": "",
+        "tags": "clojure,logging",
+        "title": "GitHub - ptaoussanis/timbre: Pure Clojure/Script logging library",
+        "uri": "https://github.com/ptaoussanis/timbre"
+    },
+    {
+        "description": "",
+        "tags": "clojure,learning",
+        "title": "Garajeando: Clojure Developers Barcelona: Short talk about sequence comprehensions",
+        "uri": "http://garajeando.blogspot.com/2015/04/clojure-developers-barcelona-short-talk.html"
+    },
+    {
+        "description": "",
+        "tags": "clojure,lisp,why",
+        "title": "Rondam Ramblings: Why Lisp?",
+        "uri": "http://blog.rongarret.info/2015/05/why-lisp.html"
+    },
+    {
+        "description": "",
+        "tags": "clojure,hiccup,reagent",
+        "title": "Hiccup Tips | LispCast",
+        "uri": "http://www.lispcast.com/hiccup-tips"
+    },
+    {
+        "description": "",
+        "tags": "clojure,talks",
+        "title": "talk-transcripts/HammockDrivenDev.md at master \u00b7 matthiasn/talk-transcripts \u00b7 GitHub",
+        "uri": "https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/HammockDrivenDev.md"
+    },
+    {
+        "description": "",
+        "tags": "management,open office,what's wrong",
+        "title": "Matt Blodgett: The Open Plan Office and the Extrovert Ideal",
+        "uri": "http://www.mattblodgett.com/2015/02/the-open-plan-office-and-extrovert-ideal.html"
+    },
+    {
+        "description": "",
+        "tags": "clojure,searching",
+        "title": "CrossClj - cross-referencing the clojure ecosystem",
+        "uri": "https://crossclj.info/"
+    },
+    {
+        "description": "",
+        "tags": "communication,organization,tools",
+        "title": "Error rendering page | TLDRify",
+        "uri": "https://tldrify.com/"
+    },
+    {
+        "description": "",
+        "tags": "management,open office,what's wrong",
+        "title": "Inside the box | The Economist",
+        "uri": "http://www.economist.com/news/international/21637359-how-workers-ended-up-cubesand-how-they-could-break-free-inside-box"
+    },
+    {
+        "description": "",
+        "tags": "angular,what's wrong",
+        "title": "What\u2019s wrong with Angular.js \u2013 Este.js dev stack \u2013 Medium",
+        "uri": "https://medium.com/este-js-framework/whats-wrong-with-angular-js-97b0a787f903"
+    },
+    {
+        "description": "",
+        "tags": "learning,react",
+        "title": "ReactJS For Stupid People",
+        "uri": "http://blog.andrewray.me/reactjs-for-stupid-people/"
+    },
+    {
+        "description": "",
+        "tags": "",
+        "title": "",
+        "uri": "http://www.wjh.harvard.edu/~dtg/DUNN%20GILBERT%20"
+    },
+    {
+        "description": "",
+        "tags": "evolution,what's wrong",
+        "title": "Does evolutionary theory need a rethink? : Nature News & Comment",
+        "uri": "http://www.nature.com/news/does-evolutionary-theory-need-a-rethink-1.16080?WT.mc_id=TWT_NatureNews"
+    },
+    {
+        "description": "",
+        "tags": "vim",
+        "title": "VimSwitch: Use Your Vim Settings Everwhere",
+        "uri": "https://priomsrb.github.io/vimswitch/"
+    },
+    {
+        "description": "",
+        "tags": "libraries,react",
+        "title": "GitHub - enaqx/awesome-react: A collection of awesome things regarding React ecosystem.",
+        "uri": "https://github.com/enaqx/awesome-react"
+    },
+    {
+        "description": "",
+        "tags": "code review,craftsmanship",
+        "title": "\u25c9 Writing Reviewable Code",
+        "uri": "https://secure.phabricator.com/book/phabflavor/article/writing_reviewable_code/"
+    },
+    {
+        "description": "",
+        "tags": "project management,what's wrong",
+        "title": "",
+        "uri": "http://www.cafe.com/work/do-not-disturb?u=dbf85d53-2695-4602-b7eb-b7ce89aa482e"
+    },
+    {
+        "description": "",
+        "tags": "estimates,project management,what's wrong",
+        "title": "Coding, Fast and Slow: Developers and the Psychology of\u00a0Overconfidence",
+        "uri": "http://blog.hut8labs.com/coding-fast-and-slow.html"
+    },
+    {
+        "description": "",
+        "tags": "management,what's wrong",
+        "title": "The Art of Not Working at Work - The Atlantic",
+        "uri": "http://m.theatlantic.com/business/archive/2014/11/the-art-of-not-working-at-work/382121/?single_page=true"
+    },
+    {
+        "description": "",
+        "tags": "interview,resume",
+        "title": "How to write a Developer CV/R\u00e9sum\u00e9 that will get you hired",
+        "uri": "http://www.slideshare.net/perlcareers/how-to-write-a-developer-cvrsum-that-will-get-you-hired"
+    },
+    {
+        "description": "",
+        "tags": "emacs",
+        "title": "Exploring large projects with Projectile and Helm Projectile",
+        "uri": "http://tuhdo.github.io/helm-projectile.html"
+    },
+    {
+        "description": "",
+        "tags": "builds,javascript,tools",
+        "title": "Update Your Browser | Facebook",
+        "uri": "https://code.prod.facebook.com/posts/1505962329687926/flow-a-new-static-type-checker-for-javascript/"
+    },
+    {
+        "description": "",
+        "tags": "javascript,libraries",
+        "title": "GitHub - taye/interact.js: JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE8+)",
+        "uri": "https://github.com/taye/interact.js"
+    },
+    {
+        "description": "",
+        "tags": "functional,javascript",
+        "title": "",
+        "uri": "http://jhusain.github.io/learnrx/"
+    },
+    {
+        "description": "",
+        "tags": "emacs",
+        "title": "Emacs Rocks!",
+        "uri": "http://emacsrocks.com/"
+    },
+    {
+        "description": "",
+        "tags": "clojure,vim",
+        "title": "Writing Clojure in Vim",
+        "uri": "http://robots.thoughtbot.com/writing-clojure-in-vim"
+    },
+    {
+        "description": "",
+        "tags": "getting started,oss",
+        "title": "Up For Grabs",
+        "uri": "http://up-for-grabs.net/#/"
+    },
+    {
+        "description": "",
+        "tags": "functional,learning",
+        "title": "Functional Programming",
+        "uri": "http://scott.sauyet.com/Javascript/Talk/2014/01/FuncProgTalk/#slide-144"
+    },
+    {
+        "description": "",
+        "tags": "what's wrong",
+        "title": "",
+        "uri": "http://infotrope.net/2014/11/28/why-i-dont-like-hackathons-by-alex-bayley-aged-39-12/"
+    },
+    {
+        "description": "",
+        "tags": "clojurescript,learning,om",
+        "title": "nil/recur",
+        "uri": "http://jonase.github.io/nil-recur/posts/29-11-2014-om-select.html"
+    },
+    {
+        "description": "",
+        "tags": "clojure,kata",
+        "title": "Game Of Live in Clojure with Quil",
+        "uri": "http://nazarii.bardiuk.com/game-of-live-clojure/"
+    },
+    {
+        "description": "",
+        "tags": "emacs",
+        "title": "Making Emacs Work For Me",
+        "uri": "http://zeekat.nl/articles/making-emacs-work-for-me.html"
+    },
+    {
+        "description": "",
+        "tags": "emacs",
+        "title": "Emacs Customization for Clojure",
+        "uri": "http://eigenhombre.com/clojure/2014/07/05/emacs-customization-for-clojure"
+    },
+    {
+        "description": "",
+        "tags": "what's wrong",
+        "title": "Leprechauns of Software\u2026  by Laurent Bossavit [PDF/iPad/Kindle]",
+        "uri": "https://leanpub.com/leprechauns"
+    },
+    {
+        "description": "",
+        "tags": "clojurescript,learning",
+        "title": "ClojureScript Tutorial",
+        "uri": "http://www.niwi.be/cljs-workshop"
+    },
+    {
+        "description": "",
+        "tags": "functional,why",
+        "title": "An introduction to functional programming",
+        "uri": "https://codewords.hackerschool.com/issues/one/an-introduction-to-functional-programming"
+    },
+    {
+        "description": "",
+        "tags": "builds,npm",
+        "title": "How to Use npm as a Build Tool",
+        "uri": "http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool"
+    },
+    {
+        "description": "",
+        "tags": "functional,what's wrong,why",
+        "title": "Object Oriented Programming is an expensive disaster which must end | Smash Company",
+        "uri": "http://www.smashcompany.com/technology/object-oriented-programming-is-an-expensive-disaster-which-must-end"
+    },
+    {
+        "description": "",
+        "tags": "clojure,logging",
+        "title": "Organizing Your Clojure Environment and Logs with Leiningen | 8th Light",
+        "uri": "http://blog.8thlight.com/kevin-buchanan/2014/12/08/organizing-your-clojure-environment-and-logs-with-leiningen.html"
+    },
+    {
+        "description": "",
+        "tags": "agile,what's wrong",
+        "title": "Code rant: Coconut Headphones: Why Agile Has Failed",
+        "uri": "http://mikehadlow.blogspot.co.uk/2014/03/coconut-headphones-why-agile-has-failed.html"
+    },
+    {
+        "description": "",
+        "tags": "interview",
+        "title": "GitHub - h5bp/Front-end-Developer-Interview-Questions: A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.",
+        "uri": "https://github.com/h5bp/Front-end-Developer-Interview-Questions"
+    },
+    {
+        "description": "",
+        "tags": "craftsmanship,mentor",
+        "title": "What I Wish I Knew When Starting Out as a Software Developer: Slow the Fuck Down",
+        "uri": "http://blog.salsitasoft.com/what-i-wish-i-knew-when-starting-out-as-a-software-developer-slow-the-fuck-down/"
+    },
+    {
+        "description": "",
+        "tags": "code review",
+        "title": "Practical Lessons in Peer Code Review",
+        "uri": "http://blog.salsitasoft.com/practical-lessons-in-peer-code-review/"
+    },
+    {
+        "description": "",
+        "tags": "react",
+        "title": "What the flux?",
+        "uri": "http://jonathancreamer.com/what-the-flux/"
+    },
+    {
+        "description": "",
+        "tags": "angular,what's wrong",
+        "title": "The problem with Angular - QuirksBlog",
+        "uri": "http://www.quirksmode.org/blog/archives/2015/01/the_problem_wit.html"
+    },
+    {
+        "description": "",
+        "tags": "craftsmanship,mentor",
+        "title": "Letters To Junior Developers | Code Over Easy",
+        "uri": "http://www.codeovereasy.com/2015/01/letters-to-junior-developers/"
+    },
+    {
+        "description": "",
+        "tags": "angular,css",
+        "title": "Introducing AngularCSS: CSS On-Demand for AngularJS | DOOR3",
+        "uri": "http://door3.com/insights/introducing-angularcss-css-demand-angularjs"
+    },
+    {
+        "description": "",
+        "tags": "datascience",
+        "title": "Dataquest",
+        "uri": "https://dataquest.io/"
+    },
+    {
+        "description": "",
+        "tags": "clojure,testing",
+        "title": "Unit and browser-testing Om & ClojureScript applications",
+        "uri": "http://lab.brightnorth.co.uk/2015/01/27/unit-and-browser-testing-om-clojurescript-applications/"
+    },
+    {
+        "description": "",
+        "tags": "clojure",
+        "title": "Boot: Getting Started With Clojure In < 10 Minutes | jjmojojjmojo: In Effect",
+        "uri": "https://lionfacelemonface.wordpress.com/2015/01/17/boot-getting-started-with-clojure-in-10-minutes/"
+    },
+    {
+        "description": "",
+        "tags": "learning,react",
+        "title": "The React Quick Start Guide",
+        "uri": "http://www.jackcallister.com/2015/01/05/the-react-quick-start-guide.html"
+    },
+    {
+        "description": "",
+        "tags": "android,learning",
+        "title": "GitHub - nstevens/androidguide: Guide to getting started with Android for engineers & designers",
+        "uri": "https://github.com/nstevens/androidguide/#introduction"
+    },
+    {
+        "description": "",
+        "tags": "clojurescript",
+        "title": "Two Ways to Access Properties in ClojureScript | Konrad Garus",
+        "uri": "http://squirrel.pl/blog/2013/03/28/two-ways-to-access-properties-in-clojurescript/"
+    },
+    {
+        "description": "",
+        "tags": "clojure,setup",
+        "title": "Managing Local and Project-wide Development Parameters in Leiningen \u2014 Martin Klepsch",
+        "uri": "http://www.martinklepsch.org/posts/managing-local-and-project-wide-development-parameters-in-leiningen.html"
+    },
+    {
+        "description": "",
+        "tags": "clojurescript,setup",
+        "title": "How to make remote calls in CLJS",
+        "uri": "http://clojurescriptmadeeasy.com/blog/how-to-make-remote-calls.html"
+    },
+    {
+        "description": "",
+        "tags": "management",
+        "title": "On Managing Developers  |  TechCrunch",
+        "uri": "http://techcrunch.com/2015/06/06/on-managing-developers/"
+    },
+    {
+        "description": "",
+        "tags": "book,clojurescript",
+        "title": "ClojureScript Unraveled",
+        "uri": "http://funcool.github.io/clojurescript-unraveled/"
+    },
+    {
+        "description": "",
+        "tags": "comparison,react",
+        "title": "An overview of Javascript reactive frameworks | Echo One",
+        "uri": "http://rrees.me/2015/06/04/overview-of-javascript-reactive-frameworks/"
+    },
+    {
+        "description": "",
+        "tags": "clojure,setup,testing",
+        "title": "Run tests from Clojure Repl and Leiningen - Stack Overflow",
+        "uri": "http://stackoverflow.com/questions/21294294/run-tests-from-clojure-repl-and-leiningen"
+    },
+    {
+        "description": "",
+        "tags": "craftsmanship",
+        "title": "Going Beyond Code to Become a Better Programmer \u2013 Interview with Pete Goodliffe - Fog Creek Blog",
+        "uri": "http://blog.fogcreek.com/going-beyond-code-to-become-a-better-programmer-interview-with-pete-goodliffe/"
+    },
+    {
+        "description": "",
+        "tags": "book,clojure,learning",
+        "title": "Clojure by Example",
+        "uri": "http://kimh.github.io/clojure-by-example/#bindings"
+    },
+    {
+        "description": "",
+        "tags": "angular2",
+        "title": "Why will Angular 2 rock? - Angular Tips",
+        "uri": "http://angular-tips.com/blog/2015/06/why-will-angular-2-rock/"
+    },
+    {
+        "description": "",
+        "tags": "clojurescript,testing",
+        "title": "Testing ClojureScript code with cljs.test with phantomjs and figwheel | nvbn blog",
+        "uri": "https://nvbn.github.io/2015/06/08/cljs-test/"
+    },
+    {
+        "description": "",
+        "tags": "chrome,performance,scripts",
+        "title": "GitHub - bahmutov/code-snippets: Chrome DevTools code snippets",
+        "uri": "https://github.com/bahmutov/code-snippets"
+    },
+    {
+        "description": "",
+        "tags": "life",
+        "title": "If I Knew Then",
+        "uri": "http://hbs1963.com/"
+    },
+    {
+        "description": "",
+        "tags": "clojurescript,documentation,reference",
+        "title": "GitHub - cljs/api at catalog",
+        "uri": "https://github.com/cljsinfo/api-refs/tree/catalog"
+    },
+    {
+        "description": "",
+        "tags": "clojurescript,reagent,websockets",
+        "title": "Websockets with HTTP Kit",
+        "uri": "http://yogthos.net/posts/2015-06-11-Websockets.html"
+    },
+    {
+        "description": "",
+        "tags": "protractor",
+        "title": "GitHub - bolshchikov-public/protractor-best-practices",
+        "uri": "https://github.com/bolshchikov-public/protractor-best-practices"
+    },
+    {
+        "description": "",
+        "tags": "clojurescript,vim",
+        "title": "Nvim terminal + ClojureScript and figwheel \u00b7 Max Gonzih",
+        "uri": "http://blog.gonzih.me/blog/2015/06/15/nvim-terminal-plus-clojurescript-and-figwheel/"
+    },
+    {
+        "description": "",
+        "tags": "leading",
+        "title": "All Software Problems are People Problems \u2013 Interview with Roy Osherove - Fog Creek Blog",
+        "uri": "http://blog.fogcreek.com/all-software-problems-are-people-problems-interview-with-roy-osherove/"
+    },
+    {
+        "description": "",
+        "tags": "tdd",
+        "title": "Test Double | Our Thinking | The Failures of \"Intro to TDD\"",
+        "uri": "http://blog.testdouble.com/posts/2014-01-25-the-failures-of-intro-to-tdd.html"
+    },
+    {
+        "description": "",
+        "tags": "clojure,excel,repl",
+        "title": "Excel-REPL/readme.md at master \u00b7 whamtet/Excel-REPL \u00b7 GitHub",
+        "uri": "https://github.com/whamtet/Excel-REPL/blob/master/readme.md"
+    },
+    {
+        "description": "",
+        "tags": "cli,reference",
+        "title": "the-art-of-command-line/README.md at master \u00b7 jlevy/the-art-of-command-line \u00b7 GitHub",
+        "uri": "https://github.com/jlevy/the-art-of-command-line/blob/master/README.md"
+    },
+    {
+        "description": "",
+        "tags": "clojurescript,setup",
+        "title": "",
+        "uri": "http://carmenla.me/blog/posts/2015-06-23-reagent-live-markdown-editor.html"
+    },
+    {
+        "description": "",
+        "tags": "software gardner",
+        "title": "The Art of Software Gardening - Patroklos Papapetrou on Vimeo",
+        "uri": "https://vimeo.com/131189624"
+    },
+    {
+        "description": "",
+        "tags": "estimates,project management",
+        "title": "No Estimates, Let's Explore the Possibilities - Woody Zuill on Vimeo",
+        "uri": "https://vimeo.com/131194136"
+    },
+    {
+        "description": "",
+        "tags": "agile",
+        "title": "Anti-fragile and feedback. Trying to make up for the failures of \"agile.\" - Andy Hunt on Vimeo",
+        "uri": "https://vimeo.com/131410262"
+    },
+    {
+        "description": "",
+        "tags": "principle",
+        "title": "Basics of the Unix Philosophy",
+        "uri": "http://www.catb.org/esr/writings/taoup/html/ch01s06.html"
+    },
+    {
+        "description": "",
+        "tags": "interview",
+        "title": "What happens when you stop relying on resumes | Aline Lerner's Blog",
+        "uri": "http://blog.alinelerner.com/what-happens-when-you-stop-relying-on-resumes/"
+    },
+    {
+        "description": "",
+        "tags": "firefox",
+        "title": "firefox-debloat/readme.md at master \u00b7 amq/firefox-debloat \u00b7 GitHub",
+        "uri": "https://github.com/amq/firefox-debloat/blob/master/readme.md"
+    },
+    {
+        "description": "",
+        "tags": "management,open office",
+        "title": "Headphones are the new walls for people in open-plan offices | ZDNet",
+        "uri": "http://www.zdnet.com/article/headphones-are-the-new-walls-for-people-in-open-plan-offices/"
+    },
+    {
+        "description": "",
+        "tags": "dnx",
+        "title": "Chocolatey Gallery | posh-dnvm 1.0.0-beta5",
+        "uri": "https://chocolatey.org/packages/posh-dnvm/1.0.0-beta5"
+    },
+    {
+        "description": "",
+        "tags": "clojurescript,emacs,setup",
+        "title": "Running figwheel with Emacs Inferior Clojure Interaction Mode \u00b7 bhauman/lein-figwheel Wiki \u00b7 GitHub",
+        "uri": "https://github.com/bhauman/lein-figwheel/wiki/Running-figwheel-with-Emacs-Inferior-Clojure-Interaction-Mode"
+    },
+    {
+        "description": "",
+        "tags": "emacs",
+        "title": "Programming: Seven specialty Emacs settings with big payoffs",
+        "uri": "http://timothypratley.blogspot.com/2015/07/seven-specialty-emacs-settings-with-big.html"
+    },
+    {
+        "description": "",
+        "tags": "book,es6,learning",
+        "title": "Exploring ES6  by Axel Rauschmayer [Leanpub PDF/iPad/Kindle]",
+        "uri": "https://leanpub.com/exploring-es6"
+    },
+    {
+        "description": "",
+        "tags": "",
+        "title": "Spokane Public Library Catalog",
+        "uri": "http://hzportal.spokanelibrary.org/ipac20/ipac.jsp?session=143667451ROV9.33460"
+    },
+    {
+        "description": "",
+        "tags": "book,javascript,learning",
+        "title": "mostly-adequate-guide/ch1.md at master \u00b7 MostlyAdequate/mostly-adequate-guide \u00b7 GitHub",
+        "uri": "https://github.com/DrBoolean/mostly-adequate-guide/blob/master/ch1.md"
+    },
+    {
+        "description": "",
+        "tags": "visual studio",
+        "title": "C# Essentials extension",
+        "uri": "https://visualstudiogallery.msdn.microsoft.com/a4445ad0-f97c-41f9-a148-eae225dcc8a5"
+    },
+    {
+        "description": "",
+        "tags": "selenium",
+        "title": "Selenium: 7 Things You Need To Know - Lucidchart",
+        "uri": "https://www.lucidchart.com/techblog/2015/07/21/selenium-7-things-you-need-to-know-2/"
+    },
+    {
+        "description": "",
+        "tags": "project management",
+        "title": "How To Make The Whole Organization Agile",
+        "uri": "http://www.forbes.com/sites/stevedenning/2015/07/22/how-to-make-the-whole-organization-agile/"
+    },
+    {
+        "description": "",
+        "tags": "code review",
+        "title": "Cultivating a Code Review Culture \u2013 Interview with Derek Prior - Fog Creek Blog",
+        "uri": "http://blog.fogcreek.com/cultivating-a-code-review-culture-interview-with-derek-prior/"
+    },
+    {
+        "description": "",
+        "tags": "visual studio",
+        "title": "C# Refactorings",
+        "uri": "http://vsrefactoringessentials.com/Features/Refactorings-CSharp"
+    },
+    {
+        "description": "",
+        "tags": "podcast,testing",
+        "title": "61: Matt Heusser: Reduce Risks with Lean Software Testing - Test Talks",
+        "uri": "http://joecolantonio.com/testtalks/61-matt-heusser-reduce-risks-with-lean-software-testing/"
+    },
+    {
+        "description": "",
+        "tags": "git",
+        "title": "How to Write a Git Commit Message",
+        "uri": "http://chris.beams.io/posts/git-commit/"
+    },
+    {
+        "description": "",
+        "tags": "angular,animation",
+        "title": "GitHub - AngularClass/ng-fx: Simple, Beautiful animation library for Angular by @AngularClass",
+        "uri": "https://github.com/Hendrixer/ngFx"
+    },
+    {
+        "description": "",
+        "tags": "emoji",
+        "title": "GitHub - notwaldorf/emoji-translate: Translate text to \u2728emoji \u2728!",
+        "uri": "https://github.com/notwaldorf/emoji-translate"
+    },
+    {
+        "description": "",
+        "tags": "noestimates,project management",
+        "title": "Steve McConnell on #NoEstimates",
+        "uri": "http://ronjeffries.com/articles/015-jul/mcconnell/"
+    },
+    {
+        "description": "",
+        "tags": "emacs,vim",
+        "title": "GitHub - chrismccord/dot_emacs: evil-mode",
+        "uri": "https://github.com/chrismccord/dot_emacs"
+    },
+    {
+        "description": "",
+        "tags": "debug,jquery",
+        "title": "Fixing These jQuery | adam j. sontag",
+        "uri": "http://fixingthesejquery.com/#slide1"
+    },
+    {
+        "description": "",
+        "tags": "cli,help",
+        "title": "Unix Toolbox",
+        "uri": "http://cb.vu/unixtoolbox.xhtml"
+    },
+    {
+        "description": "",
+        "tags": "agile,metrics",
+        "title": "",
+        "uri": "http://agile2015.sched.org/event/a558a02d3037242a522fe7a6c6bb8dd3"
+    },
+    {
+        "description": "",
+        "tags": "",
+        "title": "",
+        "uri": "http://agile2015.sched.org/event/7a0b2d48216840a58afa8ba7b1dbd887"
+    },
+    {
+        "description": "",
+        "tags": "clojurescript,setup",
+        "title": "Parameterizing ClojureScript Builds \u2014 Martin Klepsch",
+        "uri": "http://www.martinklepsch.org/posts/parameterizing-clojurescript-builds.html"
+    },
+    {
+        "description": "",
+        "tags": "blog,clojure",
+        "title": "hydrox",
+        "uri": "http://helpshift.github.io/hydrox/"
+    },
+    {
+        "description": "",
+        "tags": "management,open office",
+        "title": "Programmer Interrupted",
+        "uri": "http://blog.ninlabs.com/2013/01/programmer-interrupted/"
+    },
+    {
+        "description": "",
+        "tags": "life",
+        "title": "There's More to Life Than Being Happy - The Atlantic",
+        "uri": "http://www.theatlantic.com/health/archive/2013/01/theres-more-to-life-than-being-happy/266805/"
+    },
+    {
+        "description": "",
+        "tags": "podcast,testing",
+        "title": "66: Peter Kim: Selenium Page Objects are SO 2007 - Test Talks",
+        "uri": "http://joecolantonio.com/testtalks/66-peter-kim-building-automation-frameworks-selenium/"
+    },
+    {
+        "description": "",
+        "tags": "book,code review",
+        "title": "Best Kept Secrets of Peer Code Review eBook | Collaborator",
+        "uri": "http://smartbear.com/lp/ebook/collaborator/secrets-of-peer-code-review/"
+    },
+    {
+        "description": "",
+        "tags": "services,testing",
+        "title": "Diffy: Testing services without writing tests | Twitter Blogs",
+        "uri": "https://blog.twitter.com/2015/diffy-testing-services-without-writing-tests"
+    },
+    {
+        "description": "",
+        "tags": "clojure,tools",
+        "title": "GitHub - nathanmarz/specter: Clojure(Script)'s missing piece",
+        "uri": "https://github.com/nathanmarz/specter"
+    },
+    {
+        "description": "",
+        "tags": "css,flexbox",
+        "title": "flexbox in 5 minutes",
+        "uri": "http://flexboxin5.com/"
+    },
+    {
+        "description": "",
+        "tags": "vim",
+        "title": "Meet the :cdo and :cfdo commands, by Drew Neil on Vimeo",
+        "uri": "https://vimeo.com/132367070"
+    },
+    {
+        "description": "",
+        "tags": "clojure,testing",
+        "title": "Displaying Clojure Test Results in Taskbar \u2014 muhuk's blog",
+        "uri": "http://blog.muhuk.com/2015/09/09/displaying_clojure_test_results_in_taskbar.html"
+    },
+    {
+        "description": "",
+        "tags": "clojurescript,reference,top10",
+        "title": "",
+        "uri": "https://github.com/cljsinfo/cljs-api-docs/blob/catalog/INDEX.md"
+    },
+    {
+        "description": "",
+        "tags": "book,lisp",
+        "title": "",
+        "uri": "http://ep.yimg.com/ty/cdn/paulgraham/onlisp.pdf"
+    },
+    {
+        "description": "",
+        "tags": "book,management",
+        "title": "Turn the Ship Around!: A True Story of Turning Followers into Leaders: L. David Marquet, Stephen R. Covey: 8601411904479: Amazon.com: Books",
+        "uri": "http://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404/"
+    },
+    {
+        "description": "",
+        "tags": "book,testing",
+        "title": "The Abuse and Misuse of Test Automation \u2013 Interview with Alan Page - Fog Creek Blog",
+        "uri": "http://blog.fogcreek.com/the-abuse-and-misuse-of-test-automation-interview-with-alan-page/"
+    },
+    {
+        "description": "",
+        "tags": "",
+        "title": "GitHub - raine/ramda-cli: A CLI tool for processing data with functional pipelines",
+        "uri": "https://github.com/raine/ramda-cli"
+    },
+    {
+        "description": "",
+        "tags": "nuget,package management",
+        "title": "Oren Novotny \u00bb Enabling source code debugging for your NuGet packages with GitLink",
+        "uri": "http://oren.codes/2015/09/23/enabling-source-code-debugging-for-your-nuget-packages-with-gitlink/"
+    },
+    {
+        "description": "",
+        "tags": "kata",
+        "title": "Garajeando: Kata: Word wrap in Clojure",
+        "uri": "http://garajeando.blogspot.com/2015/09/kata-word-wrap-in-clojure.html"
+    },
+    {
+        "description": "",
+        "tags": "selenium",
+        "title": "Elemental Selenium: Receive a Free, Weekly Tip on Using Selenium like a Pro",
+        "uri": "http://elementalselenium.com/tips"
+    },
+    {
+        "description": "",
+        "tags": "protractor",
+        "title": "http-backend-proxy/README.md at master \u00b7 kbaltrinic/http-backend-proxy \u00b7 GitHub",
+        "uri": "https://github.com/kbaltrinic/http-backend-proxy/blob/master/README.md"
+    },
+    {
+        "description": "",
+        "tags": "clojure,testing",
+        "title": "Quieter clojure.test output - Jake McCrary",
+        "uri": "http://jakemccrary.com/blog/2015/04/25/quieter-clojure-dot-test-output/"
+    },
+    {
+        "description": "",
+        "tags": "interview",
+        "title": "Hire a Top Performer Every Time with These Interview Questions | First Round Review",
+        "uri": "http://firstround.com/review/hire-a-top-performer-every-time-with-these-interview-questions/"
+    },
+    {
+        "description": "",
+        "tags": "book,team",
+        "title": "Team Geek: A Software Developer's Guide to Working Well with Others: Brian W. Fitzpatrick, Ben Collins-Sussman: 9781449302443: Amazon.com: Books",
+        "uri": "http://www.amazon.com/Team-Geek-Software-Developers-Working/dp/1449302440"
+    },
+    {
+        "description": "",
+        "tags": "estimates,project management",
+        "title": "The Problem With Estimates \u2013 BoochTek, LLC",
+        "uri": "http://blog.boochtek.com/2015/09/28/no-estimates"
+    },
+    {
+        "description": "",
+        "tags": "management,team",
+        "title": "Let a 1,000 flowers bloom. Then rip 999 of them out by the roots.",
+        "uri": "http://www.gigamonkeys.com/flowers/"
+    },
+    {
+        "description": "",
+        "tags": "management,team",
+        "title": "The Science Behind Why Jeff Bezos's Two-Pizza Team Rule Works",
+        "uri": "http://blog.idonethis.com/two-pizza-team/"
+    },
+    {
+        "description": "",
+        "tags": "clojurescript,tools",
+        "title": "cljs-devtools/readme.md at master \u00b7 binaryage/cljs-devtools \u00b7 GitHub",
+        "uri": "https://github.com/binaryage/cljs-devtools/blob/master/readme.md"
+    },
+    {
+        "description": "",
+        "tags": "interview",
+        "title": "Questions I'm asking in interviews - Julia Evans",
+        "uri": "http://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/"
+    },
+    {
+        "description": "",
+        "tags": "cheetsheet,clojure",
+        "title": "Requiring things in Clojure, the easy cheatsheet",
+        "uri": "http://how-to-require-in-clojure.com/"
+    },
+    {
+        "description": "",
+        "tags": ".net,exceptions",
+        "title": "Exceptional for ReSharper - Home",
+        "uri": "http://exceptional.codeplex.com/"
+    },
+    {
+        "description": "",
+        "tags": "finances",
+        "title": "Fund Analyzer",
+        "uri": "http://apps.finra.org/fundanalyzer/1/FA.aspx"
+    },
+    {
+        "description": "",
+        "tags": "finances",
+        "title": "Find an Advisor - Locate a Fee-Only Financial Advisor",
+        "uri": "http://findanadvisor.napfa.org/Home.aspx"
+    },
+    {
+        "description": "",
+        "tags": "agile,what's wrong",
+        "title": "Modern Agile - Industrial Logic",
+        "uri": "https://www.industriallogic.com/blog/modern-agile/"
+    },
+    {
+        "description": "",
+        "tags": "javascript,promises",
+        "title": "Promisees \u00b7 Courtesy of ponyfoo.com",
+        "uri": "http://bevacqua.github.io/promisees/"
+    },
+    {
+        "description": "",
+        "tags": "interview",
+        "title": "Peter Thiel: The Single Best Interview Question You Can Ask",
+        "uri": "https://www.farnamstreetblog.com/2015/11/the-single-best-interview-question-you-can-ask/"
+    },
+    {
+        "description": "",
+        "tags": "craftsmanship",
+        "title": "Developer Differences: Makers vs Menders",
+        "uri": "http://corgibytes.com/blog/makers/menders/software/2015/08/14/makers-vs-menders/"
+    },
+    {
+        "description": "",
+        "tags": "clojure,design patterns",
+        "title": "Clojure Design Patterns",
+        "uri": "http://mishadoff.com/blog/clojure-design-patterns/"
+    },
+    {
+        "description": "",
+        "tags": "resume",
+        "title": "HackMyResume/README.md at master \u00b7 hacksalot/HackMyResume \u00b7 GitHub",
+        "uri": "https://github.com/hacksalot/HackMyResume/blob/master/README.md"
+    },
+    {
+        "description": "",
+        "tags": "management",
+        "title": "People can read their manager's mind",
+        "uri": "http://yosefk.com/blog/people-can-read-their-managers-mind.html"
+    },
+    {
+        "description": "",
+        "tags": "estimates",
+        "title": "Introducing Guesstimate, a Spreadsheet for Things That Aren\u2019t Certain \u2013 The Guesstimate Blog \u2013 Medium",
+        "uri": "https://medium.com/guesstimate-blog/introducing-guesstimate-a-spreadsheet-for-things-that-aren-t-certain-2fa54aa9340#.8iouxvwmu"
+    },
+    {
+        "description": "",
+        "tags": "recipe",
+        "title": "Top 20 Recipes of 2015 - Budget Bytes",
+        "uri": "http://www.budgetbytes.com/2015/12/top-20-recipes-of-2015/"
+    },
+    {
+        "description": "",
+        "tags": "management",
+        "title": "Shields Down \u2013 Rands in Repose",
+        "uri": "http://randsinrepose.com/archives/shields-down/"
+    },
+    {
+        "description": "",
+        "tags": "recipe",
+        "title": "Pineapple Sriracha Breakfast Bowls - Budget Bytes",
+        "uri": "http://www.budgetbytes.com/2016/01/pineapple-sriracha-breakfast-bowls/"
+    },
+    {
+        "description": "",
+        "tags": "recipe",
+        "title": "Three Pepper Pasta with Crispy Pepperoni - Budget Bytes",
+        "uri": "http://www.budgetbytes.com/2015/06/three-pepper-pasta-with-crispy-pepperoni/comment-page-1/#comments"
+    },
+    {
+        "description": "",
+        "tags": "interview",
+        "title": "Meta-analysis: best interview questions to spot ideal employees | Relentless Simplicity :: Bill Harding's Tech BlogRelentless Simplicity :: Bill Harding's Tech Blog",
+        "uri": "http://www.williambharding.com/blog/hiring/meta-analysis-best-interview-questions-to-spot-ideal-employees/"
+    },
+    {
+        "description": "",
+        "tags": "interview,resume",
+        "title": "Cover Letters: Always Send One - Kristian Glass - Do I Smell Burning?",
+        "uri": "http://blog.doismellburning.co.uk/cover-letters-always-send-one/"
+    },
+    {
+        "description": "",
+        "tags": "sharing,slides",
+        "title": "Remark",
+        "uri": "http://remarkjs.com/#19"
+    },
+    {
+        "description": "",
+        "tags": "recipe",
+        "title": "Vegetable Enchilada Casserole - Budget Bytes",
+        "uri": "http://www.budgetbytes.com/2015/10/vegetable-enchilada-casserole/"
+    },
+    {
+        "description": "",
+        "tags": "",
+        "title": "xenon/README.md at master \u00b7 ten-eleven/xenon \u00b7 GitHub",
+        "uri": "https://github.com/ten-eleven/xenon/blob/master/README.md"
+    },
+    {
+        "description": "",
+        "tags": "asp.net core",
+        "title": "How to add AngularJS to your ASP.NET 5 applications",
+        "uri": "http://blog.pluralsight.com/angularjs-for-asp-net-applications"
+    },
+    {
+        "description": "",
+        "tags": "angular,starter",
+        "title": "ang/README.md at master \u00b7 JosePedroDias/ang \u00b7 GitHub",
+        "uri": "https://github.com/JosePedroDias/ang/blob/master/README.md"
+    },
+    {
+        "description": "",
+        "tags": "typescript",
+        "title": "Introduction \u00b7 TypeScript Deep Dive",
+        "uri": "https://basarat.gitbooks.io/typescript/content/"
+    },
+    {
+        "description": "",
+        "tags": "clojurescript,tools",
+        "title": "Tutorial Cards",
+        "uri": "http://awkay.github.io/om-tutorial/#!/om_tutorial.A_Introduction"
+    },
+    {
+        "description": "",
+        "tags": "project management",
+        "title": "Why I Strive to be a 0.1x Engineer | Benji's Blog -",
+        "uri": "http://benjiweber.co.uk/blog/2016/01/25/why-i-strive-to-be-a-0-1x-engineer/"
+    },
+    {
+        "description": "",
+        "tags": "resume",
+        "title": "cv-maker/readme.md at master \u00b7 awalGarg/cv-maker \u00b7 GitHub",
+        "uri": "https://github.com/awalGarg/cv-maker/blob/master/readme.md"
+    },
+    {
+        "description": "",
+        "tags": "angular2,redux",
+        "title": "Angular 2 Time Travel with Redux",
+        "uri": "http://blog.scottlogic.com/2016/01/25/angular2-time-travel-with-redux.html"
+    },
+    {
+        "description": "",
+        "tags": "starter,webpack",
+        "title": "WebpackTutorial/README.md at master \u00b7 AriaFallah/WebpackTutorial \u00b7 GitHub",
+        "uri": "https://github.com/AriaFallah/WebpackTutorial/blob/master/part1/README.md"
+    },
+    {
+        "description": "",
+        "tags": "angular2,redux",
+        "title": "Build a Better Angular 2 Application with Redux and ngrx - One Hungry Mind",
+        "uri": "http://onehungrymind.com/build-better-angular-2-application-redux-ngrx/"
+    },
+    {
+        "description": "",
+        "tags": "cheetsheet,elm",
+        "title": "GitHub - izdi/elm-cheat-sheet: An overview of Elm syntax and features",
+        "uri": "https://github.com/izdi/elm-cheat-sheet"
+    },
+    {
+        "description": "",
+        "tags": "project management",
+        "title": "12th Principle",
+        "uri": "http://12thprinciple.org/"
+    },
+    {
+        "description": "",
+        "tags": "recipe",
+        "title": "Moroccan Lentil and Vegetable Stew - Budget Bytes",
+        "uri": "http://www.budgetbytes.com/2014/11/moroccan-lentil-vegetable-stew/"
+    },
+    {
+        "description": "",
+        "tags": "recipe",
+        "title": "Hearty Black Bean Quesadillas - Budget Bytes",
+        "uri": "http://www.budgetbytes.com/2012/02/hearty-black-bean-quesadillas/"
+    },
+    {
+        "description": "",
+        "tags": "elixir,testing",
+        "title": "",
+        "uri": "http://blog.plataformatec.com.br/2016/01/writing-acceptance-tests-in-phoenix/"
+    },
+    {
+        "description": "",
+        "tags": "ux,walk through",
+        "title": "Intro.js - Step-by-step guide and feature introduction for your website",
+        "uri": "http://introjs.com/"
+    },
+    {
+        "description": "",
+        "tags": "screencast,sharing",
+        "title": "asciinema-player/README.md at master \u00b7 asciinema/asciinema-player \u00b7 GitHub",
+        "uri": "https://github.com/asciinema/asciinema-player/blob/master/README.md"
+    },
+    {
+        "description": "",
+        "tags": "elixir",
+        "title": "Phoenix Framework: Building an Index Action",
+        "uri": "http://phoenix.thefirehoseproject.com/4.html"
+    },
+    {
+        "description": "",
+        "tags": "metrics,project management,what's wrong",
+        "title": "Going fast slowly \u2014 Varnish version 5.0.0 documentation",
+        "uri": "https://www.varnish-cache.org/docs/trunk/phk/thatslow.html"
+    },
+    {
+        "description": "",
+        "tags": "elixir,testing",
+        "title": "ExUnit Cheat Sheet",
+        "uri": "http://blog.lucidsimple.com/2016/01/31/exunit-cheat-sheet.html"
+    },
+    {
+        "description": "",
+        "tags": "elixir,testing",
+        "title": "GitHub - jjh42/mock: Mocking library for Elixir language",
+        "uri": "https://github.com/jjh42/mock"
+    },
+    {
+        "description": "",
+        "tags": "elm",
+        "title": "Data Structures in Elm \u2014   NoRedInk Tech",
+        "uri": "http://tech.noredink.com/post/140646140878/data-structures-in-elm"
+    },
+    {
+        "description": "",
+        "tags": "recipe",
+        "title": "Teriyaki Meatball Bowls - Budget Bytes",
+        "uri": "http://www.budgetbytes.com/2012/01/teriyaki-meatball-bowls/"
+    },
+    {
+        "description": "",
+        "tags": "security",
+        "title": "About rel=noopener",
+        "uri": "https://mathiasbynens.github.io/rel-noopener/"
+    },
+    {
+        "description": "",
+        "tags": "elm",
+        "title": "elm-explained/README.md at master \u00b7 niksilver/elm-explained \u00b7 GitHub",
+        "uri": "https://github.com/niksilver/elm-explained/blob/master/README.md"
+    },
+    {
+        "description": "",
+        "tags": "technical debt,what's wrong",
+        "title": "Does Technical Debt Cause Employee Turnover? - Industrial Logic",
+        "uri": "https://www.industriallogic.com/blog/technical-debt-considered/"
+    },
+    {
+        "description": "",
+        "tags": "security",
+        "title": "The Basics of Web Application Security",
+        "uri": "http://martinfowler.com/articles/web-security-basics.html"
+    },
+    {
+        "description": "",
+        "tags": "recipe",
+        "title": "Slow Cooker Chicken Tikka Masala - Budget Bytes",
+        "uri": "http://www.budgetbytes.com/2015/12/slow-cooker-chicken-tikka-masala/"
+    },
+    {
+        "description": "",
+        "tags": "code review",
+        "title": "Effective Code Reviews | 10K-LOC",
+        "uri": "https://10kloc.wordpress.com/2016/04/03/effective-code-reviews/"
+    },
+    {
+        "description": "",
+        "tags": "angular2",
+        "title": "Redirecting...",
+        "uri": "http://onehungrymind.com/fem-examples/"
+    },
+    {
+        "description": "",
+        "tags": "testing",
+        "title": "Flexible and expressive unit tests with the builder pattern",
+        "uri": "https://www.kenneth-truyers.net/2013/07/15/flexible-and-expressive-unit-tests-with-the-builder-pattern/"
+    },
+    {
+        "description": "",
+        "tags": "estimation,project management",
+        "title": "Estimation and Steve McConnell (Again)",
+        "uri": "http://ronjeffries.com/articles/015-aug/est-mcc-again/"
+    },
+    {
+        "description": "",
+        "tags": "eslint,starter",
+        "title": "eslint-plugin-import",
+        "uri": "https://www.npmjs.com/package/eslint-plugin-import"
+    },
+    {
+        "description": "",
+        "tags": "angular2",
+        "title": "Angular: 5 Rookie Mistakes to Avoid with Angular 2",
+        "uri": "http://angularjs.blogspot.com/2016/04/5-rookie-mistakes-to-avoid-with-angular.html"
+    },
+    {
+        "description": "",
+        "tags": "craftsmanship,naming",
+        "title": "What's in a Name? Anti-Patterns to a Hard Problem",
+        "uri": "http://www.sitepoint.com/whats-in-a-name-anti-patterns-to-a-hard-problem/"
+    },
+    {
+        "description": "",
+        "tags": "",
+        "title": "Managing dotfiles with GNU Stow",
+        "uri": "https://taihen.org/managing-dotfiles-with-gnu-stow/"
+    },
+    {
+        "description": "",
+        "tags": "recipe",
+        "title": "(Not) Refried Beans - Budget Bytes",
+        "uri": "http://www.budgetbytes.com/2011/08/not-refried-beans/"
+    },
+    {
+        "description": "",
+        "tags": "",
+        "title": "19 Tips For Everyday Git Use",
+        "uri": "http://www.alexkras.com/19-git-tips-for-everyday-use/"
+    },
+    {
+        "description": "",
+        "tags": "",
+        "title": "Introducing Wallaby \u2013 Concurrent Feature Tests for Elixir and Phoenix",
+        "uri": "http://blog.carbonfive.com/2016/04/16/introducing-wallaby-concurrent-feature-tests-for-elixir-and-phoenix/"
+    },
+    {
+        "description": "",
+        "tags": "elixir",
+        "title": "Debugging techniques in Elixir \u00ab Plataformatec Blog",
+        "uri": "http://blog.plataformatec.com.br/2016/04/debugging-techniques-in-elixir-lang/"
+    },
+    {
+        "description": "",
+        "tags": "elixir",
+        "title": "Inspecting, changing and debugging Elixir project dependencies \u00ab Plataformatec Blog",
+        "uri": "http://blog.plataformatec.com.br/2016/03/inspecting-changing-and-debugging-elixir-project-dependencies/"
+    },
+    {
+        "description": "",
+        "tags": "craftsmanship,what's wrong",
+        "title": "ArticleS.UncleBob.SpeedKills",
+        "uri": "http://www.butunclebob.com/ArticleS.UncleBob.SpeedKills"
+    },
+    {
+        "description": "",
+        "tags": "craftsmanship",
+        "title": "The Tortoise and the Hare",
+        "uri": "http://www.artima.com/weblogs/viewpost.jsp?thread=51769"
+    },
+    {
+        "description": "",
+        "tags": "",
+        "title": "",
+        "uri": "https://blog.teller.io/2016/04/26/tauth.html"
+    },
+    {
+        "description": "",
+        "tags": "",
+        "title": "GitHub - dbohdan/structured-text-tools: A list of command line tools for manipulating structured text data",
+        "uri": "https://github.com/dbohdan/structured-text-tools"
+    },
+    {
+        "description": "",
+        "tags": "",
+        "title": "kalapos.net",
+        "uri": "http://kalapos.azurewebsites.net/project-json-settings-in-asp-net-core"
+    },
+    {
+        "description": "",
+        "tags": "",
+        "title": "Build a Tiny App Using the Standard Elm Architecture - elm Video Tutorial #free @eggheadio",
+        "uri": "https://egghead.io/lessons/elm-build-a-tiny-app-using-the-standard-elm-architecture"
+    },
+    {
+        "description": "",
+        "tags": "",
+        "title": "What we learned from Google: code reviews aren\u2019t just for catching bugs",
+        "uri": "http://blog.fullstory.com/2016/04/code-reviews-arent-just-for-catching-bugs/"
+    },
+    {
+        "description": "",
+        "tags": "",
+        "title": "Why and How Testing Can Make You Happier",
+        "uri": "http://mikbe.com/code/testing/dx/2016/03/11/why-and-how-testing-can-make-you-happier.html"
+    },
+    {
+        "description": "",
+        "tags": "",
+        "title": "Developers, Learn To Say No. \u2013 Medium",
+        "uri": "https://medium.com/@akosma/developers-learn-to-say-no-777fe571b38d#.s7hg5oxeg"
+    },
+    {
+        "description": "",
+        "tags": "",
+        "title": "push.js/README.md at master \u00b7 Nickersoft/push.js \u00b7 GitHub",
+        "uri": "https://github.com/Nickersoft/push.js/blob/master/README.md"
+    },
+    {
+        "description": "",
+        "tags": "",
+        "title": "The ten project management commandments",
+        "uri": "http://www.defmacro.org/2013/06/03/engineering-commandments.html"
+    },
+    {
+        "description": "",
+        "tags": "",
+        "title": "Tips for beginning systems and software engineers \u2013 Ilya's blog",
+        "uri": "https://ilya-sher.org/2016/05/19/tips-for-beginning-systems-and-software-engineers/"
+    },
+    {
+        "description": "",
+        "tags": "",
+        "title": "The Quiet Crisis unfolding in Software Development \u2013 Medium",
+        "uri": "https://medium.com/@billjordan1/the-quiet-crisis-unfolding-in-software-development-cffbdafbf450#.rfiet4520"
+    },
+    {
+        "description": "",
+        "tags": "",
+        "title": "dumb-jump/README.md at master \u00b7 jacktasia/dumb-jump \u00b7 GitHub",
+        "uri": "https://github.com/jacktasia/dumb-jump/blob/master/README.md"
+    },
+    {
+        "description": "",
+        "tags": "",
+        "title": "Matt Damon's Commencement address | MIT News",
+        "uri": "http://news.mit.edu/2016/matt-damon-commencement-address-0603"
+    },
+    {
+        "description": "",
+        "tags": "",
+        "title": "Understanding the Elm type system | Adam Waselnuk - Front End Web Developer",
+        "uri": "http://www.adamwaselnuk.com/elm/2016/05/27/understanding-the-elm-type-system.html"
+    },
+    {
+        "description": "",
+        "tags": "",
+        "title": "Advanced Logging with the JavaScript Console   - Course by @mykola @eggheadio",
+        "uri": "https://egghead.io/courses/js-console-for-power-users"
+    },
+    {
+        "description": "",
+        "tags": "",
+        "title": "Introduction \u00b7 mostly-adequate-guide",
+        "uri": "https://drboolean.gitbooks.io/mostly-adequate-guide/content/"
+    },
+    {
+        "description": "",
+        "tags": "",
+        "title": "Distributed Game of Life in Elixir",
+        "uri": "http://beyondscheme.com/2016/distributed-game-of-life-in-elixir"
+    },
+    {
+        "description": "",
+        "tags": "",
+        "title": "Testing Elixir Plugs",
+        "uri": "https://robots.thoughtbot.com/testing-elixir-plugs"
+    },
+    {
+        "description": "",
+        "tags": "",
+        "title": "Create messenger bots using Elixir and Microsoft bot framework",
+        "uri": "http://www.zohaib.me/create-messenger-bots-using-elixir-and-microsoft-bot-framework/"
+    },
+    {
+        "description": "",
+        "tags": "pwa",
+        "title": "sw-toolbox/README.md at master \u00b7 GoogleChrome/sw-toolbox \u00b7 GitHub",
+        "uri": "https://github.com/GoogleChrome/sw-toolbox/blob/master/README.md"
+    },
+    {
+        "description": "",
+        "tags": "redux",
+        "title": "Learn Redux Video Tutorial Course",
+        "uri": "https://learnredux.com/"
+    },
+    {
+        "description": "",
+        "tags": "angular2,redux",
+        "title": "Using Redux to Manage Angular2 Application State | Web, Windows, and Whatnot",
+        "uri": "http://dfbaskin.com/posts/using-redux-to-manage-application-state/"
+    },
+    {
+        "description": "",
+        "tags": "elixir,testing",
+        "title": "Test-Driven APIs with Phoenix and Elixir - Semaphore",
+        "uri": "https://semaphoreci.com/community/tutorials/test-driven-apis-with-phoenix-and-elixir"
+    },
+    {
+        "description": "",
+        "tags": "",
+        "title": "[***      ] A start job is running for dhcpcd on enp2s0f0. / Newbie Corner / Arch Linux Forums",
+        "uri": "https://bbs.archlinux.org/viewtopic.php?pid=1632295#p1632295"
+    },
+    {
+        "description": "",
+        "tags": "refactoring",
+        "title": "Long Names Are Long              \u2013 journal.stuffwithstuff.com",
+        "uri": "http://journal.stuffwithstuff.com/2016/06/16/long-names-are-long/"
+    },
+    {
+        "description": "",
+        "tags": "management",
+        "title": "Why Good Managers Are So Rare",
+        "uri": "https://hbr.org/2014/03/why-good-managers-are-so-rare/"
+    },
+    {
+        "description": "",
+        "tags": "font",
+        "title": "GitHub - tonsky/FiraCode: Monospaced font with programming ligatures",
+        "uri": "https://github.com/tonsky/FiraCode"
+    },
+    {
+        "description": "",
+        "tags": "technical debt,what's wrong",
+        "title": "The Human Cost of Tech Debt - DaedTech",
+        "uri": "http://www.daedtech.com/human-cost-tech-debt/"
+    },
+    {
+        "description": "",
+        "tags": "",
+        "title": ".NET Core Application Deployment",
+        "uri": "https://docs.microsoft.com/en-us/dotnet/articles/core/deploying/index"
+    },
+    {
+        "description": "",
+        "tags": "docker",
+        "title": "Blogged By Chris \u00bb Debug Dockerized .NET Core Apps with VS Code",
+        "uri": "http://www.bloggedbychris.com/2016/08/03/debug-dockerized-net-core-apps-code/"
+    },
+    {
+        "description": "",
+        "tags": "",
+        "title": "",
+        "uri": "https://t.co/hBkLSoDNZU"
+    },
+    {
+        "description": "",
+        "tags": "technical debt,what's wrong",
+        "title": "",
+        "uri": "http://i-proving.com/2016/08/09/technical-debt-its-not-just-the-code/"
+    },
+    {
+        "description": "",
+        "tags": "",
+        "title": "The Ultimate Guide To Clojure REPLs | The Ultimate Guide To Clojure REPLs Guide",
+        "uri": "https://lambdaisland.com/guides/clojure-repls/"
+    },
+    {
+        "description": "",
+        "tags": "",
+        "title": "The traits of a proficient programmer - O'Reilly Media",
+        "uri": "https://www.oreilly.com/ideas/the-traits-of-a-proficient-programmer"
+    },
+    {
+        "description": "",
+        "tags": "",
+        "title": "Can you remove a Tester and get better quality? | mysoftwarequality",
+        "uri": "https://mysoftwarequality.wordpress.com/2016/08/18/can-you-remove-a-tester-and-get-better-quality/"
+    },
+    {
+        "description": "",
+        "tags": "images",
+        "title": "Free Images - Pixabay",
+        "uri": "https://pixabay.com/"
+    },
+    {
+        "description": "",
+        "tags": "pwa",
+        "title": "The Building Blocks Of Progressive Web Apps \u2013 Smashing Magazine",
+        "uri": "https://www.smashingmagazine.com/2016/09/the-building-blocks-of-progressive-web-apps/"
+    },
+    {
+        "description": "",
+        "tags": "bash,shell",
+        "title": "Advancing in the Bash Shell \u2013 ${me:-whatever}",
+        "uri": "http://samrowe.com/wordpress/advancing-in-the-bash-shell/"
+    },
+    {
+        "description": "",
+        "tags": "podcast",
+        "title": "",
+        "uri": "https://www.fpcasts.com/"
+    },
+    {
+        "description": "",
+        "tags": "setup,ssh",
+        "title": "Upgrade your SSH keys!  \u00b7 blog.g3rt.nl",
+        "uri": "https://blog.g3rt.nl/upgrade-your-ssh-keys.html"
+    },
+    {
+        "description": "",
+        "tags": "project management,wip",
+        "title": "Don\u2019t Limit Work in Progress",
+        "uri": "http://brodzinski.com/2015/10/dont-limit-wip.html"
+    }
+]
