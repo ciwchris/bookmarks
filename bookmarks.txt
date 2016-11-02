@@ -1432,5 +1432,41 @@
         "tags": "project management,wip",
         "title": "Don\u2019t Limit Work in Progress",
         "uri": "http://brodzinski.com/2015/10/dont-limit-wip.html"
+    },
+    {
+        "description": "",
+        "tags": "cognitive bias",
+        "title": "Cognitive bias cheat sheet",
+        "uri": "https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18#.wxpcarfmw"
+    },
+    {
+        "description": "",
+        "tags": "angular2,asp.net core",
+        "title": "ASP.NET Core + Angular 2 template for Visual Studio",
+        "uri": "http://blog.stevensanderson.com/2016/10/04/angular2-template-for-visual-studio/"
+    },
+    {
+        "description": "",
+        "tags": "life,thinking",
+        "title": "The Top Idea in Your Mind",
+        "uri": "http://paulgraham.com/top.html"
+    },
+    {
+        "description": "",
+        "tags": "music",
+        "title": "musicForProgramming(\"44: hukka\");",
+        "uri": "http://musicforprogramming.net/"
+    },
+    {
+        "description": "",
+        "tags": "life",
+        "title": "The Most Important Question of Your Life",
+        "uri": "https://markmanson.net/question"
+    },
+    {
+        "description": "",
+        "tags": "authentication",
+        "title": "Portier - An email-based, passwordless authentication service",
+        "uri": "https://portier.github.io/"
     }
 ]
