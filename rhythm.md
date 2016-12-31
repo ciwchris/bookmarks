@@ -22,3 +22,7 @@ The more interesting question is the pain. What is the pain that you want to sus
 
 This is the most simple and basic component of life: our struggles determine our successes. So choose your struggles wisely, my friend.
 
+Research groups
+---------------
+
+http://timothypratley.blogspot.com/2016/11/my-research-group-needs-you.html

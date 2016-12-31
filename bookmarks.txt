@@ -1468,5 +1468,137 @@
         "tags": "authentication",
         "title": "Portier - An email-based, passwordless authentication service",
         "uri": "https://portier.github.io/"
+    },
+    {
+        "description": "",
+        "tags": "webpack",
+        "title": "Getting Started with Webpack 2",
+        "uri": "https://blog.madewithenvy.com/getting-started-with-webpack-2-ed2b86c68783#.in534jrzv"
+    },
+    {
+        "description": "",
+        "tags": "serverless",
+        "title": "Webtask",
+        "uri": "https://webtask.io/"
+    },
+    {
+        "description": "",
+        "tags": "elixir,testing",
+        "title": "Introduction to Testing Elixir Applications with ExUnit - Semaphore",
+        "uri": "https://semaphoreci.com/community/tutorials/introduction-to-testing-elixir-applications-with-exunit"
+    },
+    {
+        "description": "",
+        "tags": "pwa",
+        "title": "Web Push Notifications: Timely, Relevant, and Precise \u00a0|\u00a0 Web      \u00a0|\u00a0 Google Developers",
+        "uri": "https://developers.google.com/web/fundamentals/engage-and-retain/push-notifications/"
+    },
+    {
+        "description": "",
+        "tags": "api,webhook",
+        "title": "Webhook Tester",
+        "uri": "https://webhook.site"
+    },
+    {
+        "description": "",
+        "tags": ".net core",
+        "title": "",
+        "uri": "http://benfoster.io/blog/net-core-configuration-legacy-projects"
+    },
+    {
+        "description": "",
+        "tags": "recipe",
+        "title": "Pasta with 5 Ingredient Butter Tomato Sauce - Budget Bytes",
+        "uri": "http://www.budgetbytes.com/2016/07/pasta-5-ingredient-butter-tomato-sauce/"
+    },
+    {
+        "description": "",
+        "tags": "recipe",
+        "title": "Creamy Mushroom Herb Pasta - Budget Bytes",
+        "uri": "http://www.budgetbytes.com/2016/10/creamy-mushroom-herb-pasta/"
+    },
+    {
+        "description": "",
+        "tags": "management",
+        "title": "Promise-Based Management:\u00a0The Essence of Execution",
+        "uri": "https://hbr.org/2007/04/promise-based-management-the-essence-of-execution"
+    },
+    {
+        "description": "",
+        "tags": "management",
+        "title": "Three Powerful Conversations Managers Must Have To Develop Their People | First Round Review",
+        "uri": "http://firstround.com/review/three-powerful-conversations-managers-must-have-to-develop-their-people/"
+    },
+    {
+        "description": "",
+        "tags": "design pattern",
+        "title": "GitHub - code4craft/hello-design-pattern: Hello world using all 23 kinds of GoF design patterns.",
+        "uri": "https://github.com/code4craft/hello-design-pattern"
+    },
+    {
+        "description": "",
+        "tags": "metrics",
+        "title": "Modern Agile Metrics: What Should We Measure?",
+        "uri": "https://www.industriallogic.com/blog/what-should-we-measure/"
+    },
+    {
+        "description": "",
+        "tags": "css,reference",
+        "title": "CSS Reference - A free visual guide to the most popular CSS properties",
+        "uri": "http://cssreference.io/#hn"
+    },
+    {
+        "description": "",
+        "tags": "clojurescript,watch",
+        "title": "Untangled",
+        "uri": "https://untangled-web.github.io/untangled/"
+    },
+    {
+        "description": "",
+        "tags": "craftsmanship,mangement,what's wrong",
+        "title": "Professor Beekums: Beware of Developers Who Do Negative Work",
+        "uri": "http://blog.professorbeekums.com/2016/12/beware-of-developers-who-do-negative.html"
+    },
+    {
+        "description": "",
+        "tags": "agile,modern agile",
+        "title": "An Introduction to Modern Agile",
+        "uri": "https://www.infoq.com/articles/modern-agile-intro"
+    },
+    {
+        "description": "",
+        "tags": "project management",
+        "title": "My Slicing Heuristic Concept Explained \u2013 Neil Killick's blog \u2014 Shifting conventional thinking to the right",
+        "uri": "https://neilkillick.wordpress.com/2016/05/31/my-slicing-heuristic-concept-explained/"
+    },
+    {
+        "description": "",
+        "tags": "team,testing,what to do next",
+        "title": "Stop Writing Code You Can't Yet Test -LeadingAgile",
+        "uri": "https://www.leadingagile.com/2013/09/stop-writing-code-cant-yet-test"
+    },
+    {
+        "description": "",
+        "tags": "api,services",
+        "title": "stack-on-a-budget/README.md at master \u00b7 255kb/stack-on-a-budget \u00b7 GitHub",
+        "uri": "https://github.com/255kb/stack-on-a-budget/blob/master/README.md"
+    },
+    {
+        "description": "",
+        "tags": "security",
+        "title": "Learning From A Year of Security Breaches \u2013 Starting Up Security \u2013 Medium",
+        "uri": "https://medium.com/starting-up-security/learning-from-a-year-of-security-breaches-ed036ea05d9b#.2e7zex8cw"
+    },
+    {
+        "description": "",
+        "tags": "christian,science",
+        "title": "How a Defense of Christianity Revolutionized Brain Science - Facts So Romantic - Nautilus",
+        "uri": "http://nautil.us/blog/how-a-defense-of-christianity-revolutionized-brain-science"
+    },
+    {
+        "description": "",
+        "tags": "annual review,management",
+        "title": "Killing the Annual Performance Appraisal | Inc.com",
+        "uri": "http://www.inc.com/shawn-murphy/killing-the-annual-performance-appraisal.html"
     }
 ]
