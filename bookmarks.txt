@@ -1600,5 +1600,47 @@
         "tags": "annual review,management",
         "title": "Killing the Annual Performance Appraisal | Inc.com",
         "uri": "http://www.inc.com/shawn-murphy/killing-the-annual-performance-appraisal.html"
+    },
+    {
+        "description": "",
+        "tags": "pwa",
+        "title": "Your First Progressive Web App \u00a0|\u00a0 Web      \u00a0|\u00a0 Google Developers",
+        "uri": "https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp/"
+    },
+    {
+        "description": "",
+        "tags": "icons,manifest,pwa",
+        "title": "App Manifest Generator",
+        "uri": "https://app-manifest.firebaseapp.com"
+    },
+    {
+        "description": "",
+        "tags": "open office",
+        "title": "BBC - Capital - Why open offices are bad for us",
+        "uri": "http://www.bbc.com/capital/story/20170105-open-offices-are-damaging-our-memories"
+    },
+    {
+        "description": "",
+        "tags": "life",
+        "title": "How to ask good questions - Julia Evans",
+        "uri": "https://jvns.ca/blog/good-questions/"
+    },
+    {
+        "description": "",
+        "tags": "agile,transformation",
+        "title": "LeanEssays: The End of Enterprise IT",
+        "uri": "http://www.leanessays.com/2017/01/the-end-of-enterprise-it.html"
+    },
+    {
+        "description": "",
+        "tags": "bash",
+        "title": "Mastering Bash and Terminal | blockloop.io",
+        "uri": "https://www.blockloop.io/mastering-bash-and-terminal"
+    },
+    {
+        "description": "",
+        "tags": "security",
+        "title": "GitHub - minimaxir/big-list-of-naughty-strings: The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.",
+        "uri": "https://github.com/minimaxir/big-list-of-naughty-strings"
     }
 ]
