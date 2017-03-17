@@ -1642,5 +1642,47 @@
         "tags": "security",
         "title": "GitHub - minimaxir/big-list-of-naughty-strings: The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.",
         "uri": "https://github.com/minimaxir/big-list-of-naughty-strings"
+    },
+    {
+        "description": "",
+        "tags": "learned lessons",
+        "title": "Modern Software Over-Engineering Mistakes \u2013 RDX \u2013 Medium",
+        "uri": "https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8#.10dnzsjx2"
+    },
+    {
+        "description": "",
+        "tags": "refactoring,technical debt",
+        "title": "Refactoring -- Not on the backlog!",
+        "uri": "http://ronjeffries.com/xprog/articles/refactoring-not-on-the-backlog/"
+    },
+    {
+        "description": "",
+        "tags": "pwa",
+        "title": "GitHub - simonfl3tcher/react-progressive-web-app: An opinionated React based repository which is optimized for Progressive Web App development",
+        "uri": "https://github.com/simonfl3tcher/react-progressive-web-app"
+    },
+    {
+        "description": "",
+        "tags": "stateof,tidbits",
+        "title": "Home - State.of.dev",
+        "uri": "https://stateofdev.com/"
+    },
+    {
+        "description": "",
+        "tags": "craftsmanship,principles",
+        "title": "Abstractivate: Reuse",
+        "uri": "http://blog.jessitron.com/2017/02/reuse.html"
+    },
+    {
+        "description": "",
+        "tags": "grammar",
+        "title": "100 Most Often Mispronounced Words and Phrases in English",
+        "uri": "http://grammar.yourdictionary.com/style-and-usage/mispron.html"
+    },
+    {
+        "description": "",
+        "tags": "wsl",
+        "title": "GitHub - ethanhs/WSL-Programs: A community powered list of programs that work (and those that don't) on the Windows subsystem for Linux",
+        "uri": "https://github.com/ethanhs/WSL-Programs"
     }
 ]
