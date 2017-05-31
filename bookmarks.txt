@@ -1684,5 +1684,155 @@
         "tags": "wsl",
         "title": "GitHub - ethanhs/WSL-Programs: A community powered list of programs that work (and those that don't) on the Windows subsystem for Linux",
         "uri": "https://github.com/ethanhs/WSL-Programs"
+    },
+    {
+        "description": "",
+        "tags": "life",
+        "title": "How to Be Someone People Love to Talk to | Time.com",
+        "uri": "http://time.com/3722418/become-someone-people-love-talk/"
+    },
+    {
+        "description": "",
+        "tags": "bash,cli",
+        "title": "explainshell.com - match command-line arguments to their help text",
+        "uri": "https://explainshell.com/"
+    },
+    {
+        "description": "",
+        "tags": "angular,testing",
+        "title": "Testing Angular faster with Jest - Xfive",
+        "uri": "https://www.xfive.co/blog/testing-angular-faster-jest/"
+    },
+    {
+        "description": "",
+        "tags": "angular,lib",
+        "title": "Angular Components",
+        "uri": "https://devarchy.com/angular-components"
+    },
+    {
+        "description": "",
+        "tags": "node,version manager",
+        "title": "GitHub - jasongin/nvs: Node Version Switcher - A cross-platform tool for switching between versions and forks of Node.js",
+        "uri": "https://github.com/jasongin/nvs"
+    },
+    {
+        "description": "",
+        "tags": "pwa",
+        "title": "What Web Can Do Today",
+        "uri": "https://whatwebcando.today/"
+    },
+    {
+        "description": "",
+        "tags": "f#",
+        "title": "Connel Hooley - A C# Developer's Guide to F#",
+        "uri": "http://connelhooley.uk/blog/2017/04/10/f-sharp-guide"
+    },
+    {
+        "description": "",
+        "tags": "config,git",
+        "title": "Better Git configuration | Scott Nonnenberg",
+        "uri": "https://blog.scottnonnenberg.com/better-git-configuration/"
+    },
+    {
+        "description": "",
+        "tags": "pwa",
+        "title": "Progressive Web Apps with Angular 2+",
+        "uri": "https://houssein.me/progressive-angular-applications"
+    },
+    {
+        "description": "",
+        "tags": "design,material",
+        "title": "Color Tool - Material Design",
+        "uri": "https://material.io/color/"
+    },
+    {
+        "description": "",
+        "tags": "design,icon",
+        "title": "Simple Icons",
+        "uri": "https://simpleicons.org/"
+    },
+    {
+        "description": "",
+        "tags": "tmux",
+        "title": "Bugsnag Blog - Tmux and Vim - even better together",
+        "uri": "https://blog.bugsnag.com/tmux-and-vim/"
+    },
+    {
+        "description": "",
+        "tags": "clojurescript,native",
+        "title": "JUXT Blog: Writing ClojureScript native apps is easy",
+        "uri": "https://juxt.pro/blog/posts/native.html"
+    },
+    {
+        "description": "",
+        "tags": "functional,why",
+        "title": "Why functional programming matters \u2013 Hacker Noon",
+        "uri": "https://hackernoon.com/why-functional-programming-matters-c647f56a7691"
+    },
+    {
+        "description": "",
+        "tags": "angular,documentation",
+        "title": "NgDocIo",
+        "uri": "http://ngdoc.io/"
+    },
+    {
+        "description": "",
+        "tags": "presentation",
+        "title": "Markdown Presentations For Everyone on GitHub, GitLab and Bitbucket - GitPitch",
+        "uri": "https://gitpitch.com/"
+    },
+    {
+        "description": "",
+        "tags": "life",
+        "title": "A Letter to My Daughter About Young Men \u2013 HeartSupport",
+        "uri": "https://blog.heartsupport.com/a-letter-to-my-daughter-about-young-men-2bab2fca4971"
+    },
+    {
+        "description": "",
+        "tags": "open office",
+        "title": "Office distractions could be costing your company more than $30k per high-performance employee each\u2026",
+        "uri": "https://hackernoon.com/office-distractions-could-be-costing-your-company-more-than-30k-per-high-performance-employee-each-ba7e4f772d78"
+    },
+    {
+        "description": "",
+        "tags": "book,follow up",
+        "title": "An Outsider's Guide to\u2026  by Brian Marick [PDF/iPad/Kindle]",
+        "uri": "https://leanpub.com/outsidefp"
+    },
+    {
+        "description": "",
+        "tags": "",
+        "title": "Serverless Takes DevOps to the Next Level",
+        "uri": "https://www.infoq.com/articles/serverless-takes-devops-next-level"
+    },
+    {
+        "description": "",
+        "tags": "security",
+        "title": "Web Developer Security Checklist \u2013 Simple Security",
+        "uri": "https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56"
+    },
+    {
+        "description": "",
+        "tags": "angular,typescript",
+        "title": "GitHub - bcherny/json-schema-to-typescript: Compile JSONSchema to TypeScript typings",
+        "uri": "https://github.com/bcherny/json-schema-to-typescript"
+    },
+    {
+        "description": "",
+        "tags": "craftsmanship,javascript",
+        "title": "GitHub - ryanmcdermott/clean-code-javascript: Clean Code concepts adapted for JavaScript",
+        "uri": "https://github.com/ryanmcdermott/clean-code-javascript"
+    },
+    {
+        "description": "",
+        "tags": "security",
+        "title": "Appcanary - Everything you need to know about HTTP security headers",
+        "uri": "https://blog.appcanary.com/2017/http-security-headers.html"
+    },
+    {
+        "description": "",
+        "tags": "git",
+        "title": "Little Things I Like to Do with Git \u2013 CSS Wizardry \u2013 CSS Architecture, Web Performance Optimisation, and more, by Harry Roberts",
+        "uri": "https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/"
     }
 ]
